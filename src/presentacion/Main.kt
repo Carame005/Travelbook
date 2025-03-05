@@ -1,6 +1,6 @@
 package presentacion
 
-import servicios.ReservaService
+import aplicacion.ReservaService
 import datos.ReservaRepositoryEnMemoria
 
 fun main() {
